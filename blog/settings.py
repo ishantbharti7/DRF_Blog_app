@@ -100,7 +100,7 @@ DATABASES = {
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-"bhartiishant39045.pythonanywhere.com"
+"https://bhartiishant39045.pythonanywhere.com/"
 ]
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
